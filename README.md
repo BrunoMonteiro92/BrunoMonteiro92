@@ -15,7 +15,7 @@
 
 - :computer: Atualmente estou estudando: Typescript, NodeJS, TypeORM e JEST.
 - :mortar_board: Bacharel em Ciência da Computação - UECE (Universidade Estadual do Ceará)
-- 💼 Analista de Sistemas Jr., GREat .
+- 💼 Analista de Sistemas Jr., GREat (Grupo de Redes de Computadores, Engenharia de Software e Sistemas).
 - 🔎 Hobbies: Programar, Jogos, Séries, Música.
 
 <div align="center">
@@ -24,9 +24,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMonteiro92&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align="left">
+<div align="right">
     <img height="180em" src='https://static.skillshare.com/cdn-cgi/image/quality=80,width=1000,format=auto/uploads/project/f7dcd4837b26fbafe935e370509150bf/7a6fdc01.gif' width='200"'>
 </div>
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179156896&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12179156896&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179156896&cover_image=true&theme=natemoo-re&bar_color=9c4eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12179156896&redirect=true)
