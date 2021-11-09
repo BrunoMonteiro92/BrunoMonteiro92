@@ -24,8 +24,28 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMonteiro92&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align="right">
-    <img height="180em" src='https://static.skillshare.com/cdn-cgi/image/quality=80,width=1000,format=auto/uploads/project/f7dcd4837b26fbafe935e370509150bf/7a6fdc01.gif' width='200"'>
-</div>
+## ⚔ Principais Tecnologias
+
+ <div style="display: inline_block"><br>
+  <img align="center" alt="bia-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="bia-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/javascript-original.svg" />
+  <img align="center" alt="bia-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="bia-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="bia-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="bia-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="bia-npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg.svg" />
+  <img align="center" alt="bia-yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+  <img align="center" alt="bia-jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
+  <img align="center" alt="bia-heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" />
+  <img align="center" alt="bia-jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-plain.svg" />
+  <img align="center" alt="bia-pgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="bia-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="bia-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+  <img align="center" alt="bia-confl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
+  <img align="center" alt="bia-bbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+  <img align="right" height="180em" src='https://static.skillshare.com/cdn-cgi/image/quality=80,width=1000,format=auto/uploads/project/f7dcd4837b26fbafe935e370509150bf/7a6fdc01.gif' width='200"'>
+ </div>
+
+##
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179156896&cover_image=true&theme=natemoo-re&bar_color=9c4eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12179156896&redirect=true)
