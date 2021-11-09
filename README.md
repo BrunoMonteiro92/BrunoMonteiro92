@@ -42,7 +42,7 @@
   <img align="center" alt="bia-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg" />
   <img align="center" alt="bia-confl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
   <img align="center" alt="bia-bbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
-  <img align="right" height="180em" src='https://static.skillshare.com/cdn-cgi/image/quality=80,width=1000,format=auto/uploads/project/f7dcd4837b26fbafe935e370509150bf/7a6fdc01.gif' width='180em"'>
+  <img align="right" height="160em" src='https://static.skillshare.com/cdn-cgi/image/quality=80,width=1000,format=auto/uploads/project/f7dcd4837b26fbafe935e370509150bf/7a6fdc01.gif' width='160em"'>
  </div>
 
 ##
