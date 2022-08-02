@@ -13,7 +13,7 @@
 
 - :computer: Atualmente estou estudando: Typescript, NodeJS, TypeORM e JEST.
 - :mortar_board: Bacharel em Ciência da Computação - UECE (Universidade Estadual do Ceará)
-- 💼 Analista de Sistemas Jr., GREat (Grupo de Redes de Computadores, Engenharia de Software e Sistemas).
+- 💼 Analista de Desenvolvimento Jr. no Venturus Centro de Inovação Tecnológica.
 - 🔎 Hobbies: Programar, Jogos, Séries, Música.
 
 <div align="center">
