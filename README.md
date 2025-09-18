@@ -13,14 +13,8 @@
 
 - :computer: Atualmente estou estudando: Typescript, NodeJS, TypeORM e JEST.
 - :mortar_board: Bacharel em Ciência da Computação - UECE (Universidade Estadual do Ceará)
-- 💼 Analista de Desenvolvimento Jr. no Venturus Centro de Inovação Tecnológica.
+- 💼 Analista de Desenvolvimento Pl. no Venturus Centro de Inovação Tecnológica.
 - 🔎 Hobbies: Programar, Jogos, Séries, Música.
-
-<div align="center">
-    <a href="https://github.com/BrunoMonteiro92">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoMonteiro92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMonteiro92&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ## ⚔ Principais Tecnologias
 
@@ -44,5 +38,3 @@
  </div>
 
 ##
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12179156896&cover_image=true&theme=natemoo-re&bar_color=9c4eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12179156896&redirect=true)
